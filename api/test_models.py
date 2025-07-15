@@ -1,6 +1,6 @@
 # %%
 from database import SessionLocal
-from models import Movie , Rating , Tag , Link 
+from models import Movie , Rating , Tag , Link
 
 db = SessionLocal()
 # %%
